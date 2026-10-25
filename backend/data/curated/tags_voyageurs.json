@@ -1,0 +1,254 @@
+{
+  "Australie": {
+    "famille": {
+      "recommandation": "bon",
+      "justification": "Le pays bénéficie d'un haut niveau de sécurité, mais demande une grande vigilance avec les enfants en raison de la faune dangereuse, des vagues et des méduses."
+    },
+    "couple": {
+      "recommandation": "ideal",
+      "justification": "La sécurité y est comparable à l'Europe de l'Ouest et le pays se montre très tolérant envers tous les voyageurs, y compris les couples homosexuels."
+    },
+    "amis": {
+      "recommandation": "bon",
+      "justification": "C'est une destination très sûre pour voyager en groupe, à condition de bien planifier les excursions hors sentiers battus et d'avoir du matériel adapté."
+    },
+    "solo": {
+      "recommandation": "bon",
+      "justification": "Les agressions et vols y sont rares, mais voyager seul dans l'Outback nécessite de prévoir un moyen de communication satellite et des réserves d'eau adéquates."
+    }
+  },
+  "Brésil": {
+    "famille": {
+      "recommandation": "moyen",
+      "justification": "Le contexte mentionne de magnifiques plages et des habitants accueillants, mais n'apporte aucune précision sur les infrastructures ou la sécurité nécessaires aux enfants et personnes âgées."
+    },
+    "couple": {
+      "recommandation": "bon",
+      "justification": "Les paysages magnifiques, les plages de sable blanc et la richesse culturelle offrent un cadre agréable pour un séjour à deux."
+    },
+    "amis": {
+      "recommandation": "ideal",
+      "justification": "Le pays propose une vie nocturne animée, de belles plages et de grands espaces naturels propices aux activités de groupe."
+    },
+    "solo": {
+      "recommandation": "bon",
+      "justification": "Les Brésiliens étant décrits comme des personnes accueillantes, curieuses et chaleureuses, l'intégration d'un voyageur solo y est facilitée."
+    }
+  },
+  "Chine": {
+    "famille": {
+      "recommandation": "bon",
+      "justification": "La Chine est un pays sûr et sa culture accorde un grand respect aux personnes âgées, bien que la foule et le manque d'espace personnel dans les transports puissent être pesants."
+    },
+    "couple": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne fournit aucune information spécifique concernant les voyages en couple."
+    },
+    "amis": {
+      "recommandation": "moyen",
+      "justification": "Le texte ne mentionne pas d'éléments particuliers sur le voyage en groupe d'amis."
+    },
+    "solo": {
+      "recommandation": "moyen",
+      "justification": "Bien que le pays soit généralement sûr pour les visiteurs, le texte déconseille explicitement de se balader seul le soir au hasard des rues."
+    }
+  },
+  "Espagne": {
+    "famille": {
+      "recommandation": "moyen",
+      "justification": "Bien que les valeurs familiales soient importantes dans la culture locale, les personnes âgées y sont particulièrement ciblées par les vols et agressions dans les grandes villes."
+    },
+    "couple": {
+      "recommandation": "ideal",
+      "justification": "Le pays offre un cadre très tolérant et accueillant pour les couples, y compris LGBT, bénéficiant d'un climat agréable et d'une population chaleureuse."
+    },
+    "amis": {
+      "recommandation": "bon",
+      "justification": "La culture conviviale axée sur le partage des repas convient très bien aux groupes, même si la vigilance est de mise concernant les vols de voitures de location."
+    },
+    "solo": {
+      "recommandation": "moyen",
+      "justification": "Même si les habitants sont très sociables, les voyageurs solos subissent un risque élevé de vol à la tire, de vol de passeport et d'arnaques par distraction dans les lieux touristiques."
+    }
+  },
+  "France": {
+    "famille": {
+      "recommandation": "moyen",
+      "justification": "Bien que le climat y soit tempéré, les données fournies ne contiennent pas d'informations spécifiques sur les infrastructures ou activités adaptées aux familles."
+    },
+    "couple": {
+      "recommandation": "moyen",
+      "justification": "Il s'agit du pays le plus visité au monde avec des climats variés, mais le contexte ne détaille pas d'éléments spécifiques pour les séjours en couple."
+    },
+    "amis": {
+      "recommandation": "moyen",
+      "justification": "La forte fréquentation touristique indique une destination très prisée, mais le texte ne donne aucune information sur les activités de groupe."
+    },
+    "solo": {
+      "recommandation": "moyen",
+      "justification": "Le pays accueille un grand nombre de touristes, mais les détails concernant la sécurité et l'infrastructure pour les voyageurs solos ne sont pas précisés."
+    }
+  },
+  "Grèce": {
+    "famille": {
+      "recommandation": "bon",
+      "justification": "Le pays est sûr avec un faible risque de délinquance, idéal pour découvrir des sites archéologiques majeurs, des montagnes et de nombreuses îles."
+    },
+    "couple": {
+      "recommandation": "ideal",
+      "justification": "C'est une destination très prisée offrant un cadre agréable entre mer, nombreuses îles habitées et riche patrimoine historique."
+    },
+    "amis": {
+      "recommandation": "bon",
+      "justification": "Le pays propose des activités variées avec ses 227 îles habitées, ses montagnes et ses sites culturels, le tout dans un environnement sécurisé."
+    },
+    "solo": {
+      "recommandation": "bon",
+      "justification": "C'est une destination sûre où une simple prudence est demandée dans les lieux touristiques et certains quartiers d'Athènes la nuit."
+    }
+  },
+  "Indonésie": {
+    "famille": {
+      "recommandation": "moyen",
+      "justification": "Le contexte mentionne des parcs nationaux mais alerte sur des courants marins dangereux pour la baignade, sans donner de détails sur l'infrastructure familiale."
+    },
+    "couple": {
+      "recommandation": "moyen",
+      "justification": "L'archipel propose des parcs nationaux et des sites du patrimoine mondial, mais le contexte manque de précisions sur les commodités adaptées aux couples."
+    },
+    "amis": {
+      "recommandation": "moyen",
+      "justification": "Bien que la destination offre de nombreuses îles et parcs à explorer, la sévérité extrême de la législation sur les drogues et les risques de baignade imposent une grande prudence."
+    },
+    "solo": {
+      "recommandation": "moyen",
+      "justification": "Aucune information spécifique au voyage solo n'est fournie, et la fermeté des lois locales ainsi que les conditions carcérales précaires invitent à la vigilance."
+    }
+  },
+  "Italie": {
+    "famille": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne fournit aucune information spécifique sur les infrastructures, équipements ou activités adaptés aux enfants et aux personnes âgées."
+    },
+    "couple": {
+      "recommandation": "moyen",
+      "justification": "Bien que le texte mentionne le lac de Côme comme un lieu emblématique du luxe, il ne donne aucun détail précis sur les séjours en couple."
+    },
+    "amis": {
+      "recommandation": "moyen",
+      "justification": "Le texte ne présente aucune information concernant les activités, la vie nocturne ou les infrastructures adaptées aux voyages en groupe."
+    },
+    "solo": {
+      "recommandation": "moyen",
+      "justification": "Bien que le pays soit décrit comme relativement sûr, le contexte signale de nombreux vols à la tire dans les transports et sites touristiques sans aborder le voyage solo."
+    }
+  },
+  "Japon": {
+    "famille": {
+      "recommandation": "moyen",
+      "justification": "Le pays est extrêmement sûr et dispose de services d'urgence efficaces, mais le contexte ne fournit pas d'informations sur les infrastructures ou activités adaptées aux familles."
+    },
+    "couple": {
+      "recommandation": "moyen",
+      "justification": "Bien que le niveau de sécurité soit très élevé, le texte ne mentionne aucun détail sur l'ambiance, les logements ou les activités pour les couples."
+    },
+    "amis": {
+      "recommandation": "moyen",
+      "justification": "Le Japon offre un environnement très sûr, mais les informations disponibles ne permettent pas d'évaluer les possibilités de visites ou de loisirs en groupe."
+    },
+    "solo": {
+      "recommandation": "bon",
+      "justification": "Le très bas taux de criminalité et l'existence d'une ligne d'assistance policière en anglais à Tokyo offrent un cadre sécurisant pour voyager seul, malgré le risque de catastrophes naturelles."
+    }
+  },
+  "Maroc": {
+    "famille": {
+      "recommandation": "bon",
+      "justification": "Le niveau de sécurité élevé avec des patrouilles renforcées et la diversité des villes et paysages conviennent très bien aux séjours en famille."
+    },
+    "couple": {
+      "recommandation": "bon",
+      "justification": "La possibilité de se promener tard en toute sécurité et la richesse culturelle et géographique offrent un cadre idéal pour voyager à deux."
+    },
+    "amis": {
+      "recommandation": "bon",
+      "justification": "La variété des paysages (mer, montagnes de l'Atlas, désert du Sahara) permet de nombreuses activités et découvertes en groupe dans un environnement sûr."
+    },
+    "solo": {
+      "recommandation": "ideal",
+      "justification": "La présence de brigades touristiques, l'absence d'agressivité et la possibilité de sortir tard en toute sécurité facilitent grandement les voyages en solo."
+    }
+  },
+  "Thaïlande": {
+    "famille": {
+      "recommandation": "bon",
+      "justification": "Le pays est sûr et bénéficie d'infrastructures touristiques très développées avec des hébergements pour tous les budgets, même si l'accessibilité piétonne peut faire défaut en ville."
+    },
+    "couple": {
+      "recommandation": "bon",
+      "justification": "Les îles magnifiques et les hôtels de luxe offrent un cadre idyllique, mais il faut veiller à respecter la coutume de ne pas s'embrasser en public."
+    },
+    "amis": {
+      "recommandation": "ideal",
+      "justification": "Idéal pour les groupes grâce aux activités variées comme la plongée, la célèbre Full Moon Party et la présence d'auberges de jeunesse bon marché."
+    },
+    "solo": {
+      "recommandation": "ideal",
+      "justification": "C'est une destination sûre, dotée de nombreux centres pour routards et portée par un peuple accueillant qui rend le voyage facile en solitaire."
+    }
+  },
+  "Turquie": {
+    "famille": {
+      "recommandation": "moyen",
+      "justification": "Le contexte fourni indique uniquement la localisation géographique de la Turquie, ce qui ne permet pas d'évaluer les infrastructures ou activités adaptées aux familles."
+    },
+    "couple": {
+      "recommandation": "moyen",
+      "justification": "Les informations se limitent à la situation géographique du pays, sans éléments sur l'ambiance ou les activités romantiques."
+    },
+    "amis": {
+      "recommandation": "moyen",
+      "justification": "La seule donnée disponible concerne la localisation entre Europe et Moyen-Orient, ce qui est insuffisant pour évaluer une destination en groupe."
+    },
+    "solo": {
+      "recommandation": "moyen",
+      "justification": "Le texte ne fournit aucun détail sur la sécurité ou l'infrastructure du pays pour juger de la faisabilité d'un voyage solo."
+    }
+  },
+  "Égypte": {
+    "famille": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne mentionne pas ce profil. Les conditions climatiques extrêmes (chaleur, tempêtes de sable, absence de chauffage) et les restrictions de sécurité incitent à la prudence."
+    },
+    "couple": {
+      "recommandation": "moyen",
+      "justification": "Aucune donnée spécifique n'est fournie pour les couples. Bien que la population soit accueillante, il faut composer avec des zones déconseillées et des codes vestimentaires stricts."
+    },
+    "amis": {
+      "recommandation": "moyen",
+      "justification": "Le texte ne fournit pas d'éléments sur les voyages en groupe. La présence d'escortes militaires dans certaines zones et le risque terroriste ciblé imposent une évaluation modérée."
+    },
+    "solo": {
+      "recommandation": "moyen",
+      "justification": "Les voyageurs solos ne sont pas mentionnés dans le texte. Les risques sécuritaires localisés (Sinaï) et la nécessité de respecter scrupuleusement les us locaux appellent à la vigilance."
+    }
+  },
+  "États-Unis": {
+    "famille": {
+      "recommandation": "bon",
+      "justification": "Le pays est généralement sûr et offre une belle diversité entre zones urbaines et paysages naturels, bien que les trajets entre les destinations puissent être longs et coûteux."
+    },
+    "couple": {
+      "recommandation": "bon",
+      "justification": "Les paysages naturels exceptionnels et la richesse culturelle offrent une grande variété d'expériences dans un environnement généralement sûr."
+    },
+    "amis": {
+      "recommandation": "bon",
+      "justification": "La diversité des régions urbaines et des espaces naturels convient très bien aux voyages en groupe, même si les grands déplacements représentent un coût important."
+    },
+    "solo": {
+      "recommandation": "moyen",
+      "justification": "Bien que la destination soit généralement sûre pour les touristes, voyager seul peut rendre le coût des longs déplacements plus élevé."
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "Brésil": {
+    "printemps": {
+      "recommandation": "bon",
+      "justification": "Le contexte ne fournit pas de détails climatiques, mais la découverte des villes coloniales et métropoles reste possible en toute saison."
+    },
+    "ete": {
+      "recommandation": "bon",
+      "justification": "Bien qu'aucune donnée météorologique ne soit précisée, c'est l'occasion de profiter des plages en respectant les coutumes vestimentaires locales."
+    },
+    "automne": {
+      "recommandation": "bon",
+      "justification": "En l'absence d'informations spécifiques sur le climat autumnal, l'accueil chaleureux des Brésiliens rend la visite agréable."
+    },
+    "hiver": {
+      "recommandation": "bon",
+      "justification": "Sans précision sur cette période dans le texte, l'exploration des destinations culturelles et côtières reste une option envisageable."
+    }
+  },
+  "Chine": {
+    "printemps": {
+      "recommandation": "bon",
+      "justification": "Le nord connaît quatre saisons distinctes et cette période permet d'éviter les froids extrêmes de l'hiver ainsi que les fortes chaleurs de l'été."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Les étés sont extrêmement chauds dans le nord et l'intérieur du pays, tandis que le sud est soumis à la saison des pluies."
+    },
+    "automne": {
+      "recommandation": "ideal",
+      "justification": "Cette saison offre une transition favorable en évitant la saison des pluies du sud, les chaleurs estivales et le froid hivernal intense."
+    },
+    "hiver": {
+      "recommandation": "deconseille",
+      "justification": "L'hiver est très froid dans le nord et l'intérieur avec des températures négatives, et les bâtiments sont globalement peu isolés et peu chauffés."
+    }
+  },
+  "Espagne": {
+    "printemps": {
+      "recommandation": "ideal",
+      "justification": "Bien que non détaillé dans le contexte, le printemps permet d'éviter les chaleurs caniculaires de l'été tout en profitant de précipitations généralement faibles."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "L'été est marqué par un climat très chaud et sec, particulièrement caniculaire dans le sud, bien que le nord-ouest offre des températures plus modérées."
+    },
+    "automne": {
+      "recommandation": "bon",
+      "justification": "L'automne connaît une hausse des précipitations dans les zones océaniques, mais le manque d'eau et les faibles pluies prédominent sur la majorité du territoire."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "L'hiver bénéficie de températures pondérées par l'océan, mais reste marqué par des épisodes pluvieux dans les régions à climat océanique."
+    }
+  },
+  "France": {
+    "printemps": {
+      "recommandation": "bon",
+      "justification": "Cette saison bénéficie du climat tempéré général du pays, sans extrêmes météorologiques particuliers mentionnés."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Bien que le climat soit tempéré, des périodes de canicule ne sont pas rares durant cette période."
+    },
+    "automne": {
+      "recommandation": "bon",
+      "justification": "La saison profite d'un climat tempéré global, sans risque climatique spécifique soulevé dans le texte."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Des hivers rigoureux ne sont pas rares, ce qui peut rendre le voyage moins agréable."
+    }
+  },
+  "Indonésie": {
+    "printemps": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne fournit pas d'informations climatiques sur le printemps, mais la destination reste envisageable en respectant les traditions religieuses locales."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Aucune donnée météorologique n'est précisée pour l'été dans le contexte ; le voyage nécessite simplement le respect des coutumes et religions du pays."
+    },
+    "automne": {
+      "recommandation": "moyen",
+      "justification": "En l'absence de détails sur le climat automnal, une évaluation prudente s'applique tout en veillant à respecter la diversité religieuse sur place."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne mentionne pas les conditions hivernales ; il convient d'adopter une approche généraliste en respectant les croyances locales."
+    }
+  },
+  "Italie": {
+    "printemps": {
+      "recommandation": "bon",
+      "justification": "Le climat s'adoucit sur l'ensemble du territoire, bien que la saison enregistre un pic de précipitations et d'orages au nord ainsi que l'apparition du sirocco."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Si les côtes bénéficient de brises et les montagnes d'un climat doux, la chaleur est très lourde, étouffante ou torride dans l'intérieur des terres et la vallée du Pô, avec des orages fréquents au nord."
+    },
+    "automne": {
+      "recommandation": "moyen",
+      "justification": "Il s'agit de la période la plus humide dans plusieurs régions (Rome, Riviera ligure, lacs) avec de fortes pluies régulières, malgré des températures douces soutenues par le sirocco."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "L'hiver est idéal pour les sports d'hiver en montagne, mais le Nord connaît du froid intense, du brouillard et de la neige, tandis que le Sud et les côtes restent très doux mais pluvieux."
+    }
+  },
+  "Japon": {
+    "printemps": {
+      "recommandation": "ideal",
+      "justification": "C'est l'une des meilleures périodes pour visiter le Japon grâce à des températures agréables, peu de pluie et la floraison des cerisiers en mars-avril."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Marqué par la saison des pluies en juin puis une forte chaleur très humide en juillet-août, l'été reste néanmoins propice aux festivals et aux séjours dans le nord ou en montagne."
+    },
+    "automne": {
+      "recommandation": "ideal",
+      "justification": "Cette excellente période offre un retour à des températures tolérables, un bon ensoleillement et de magnifiques couleurs automnales, malgré quelques risques de typhons au début."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "C'est une bonne saison pour le ski et les sources d'eau chaude, mais le manque de chauffage intérieur rend certains bâtiments très froids et le nord est sous la neige."
+    }
+  },
+  "Maroc": {
+    "printemps": {
+      "recommandation": "ideal",
+      "justification": "C'est la saison idéale pour visiter toutes les régions du Maroc, le paysage y étant verdoyant et fleuri."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Bien que les côtes et le Moyen Atlas soient agréables, le sud et les villes de l'intérieur connaissent des chaleurs étouffantes."
+    },
+    "automne": {
+      "recommandation": "bon",
+      "justification": "L'automne est une saison souvent agréable dans l'ensemble du pays, avec peu de pluies avant la mi-novembre."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Le sud et l'Anti-Atlas restent très agréables, mais le froid intérieur non chauffé et la boue due aux pluies peuvent être gênants."
+    }
+  },
+  "Thaïlande": {
+    "printemps": {
+      "recommandation": "moyen",
+      "justification": "C'est la période la plus chaude avec des températures atteignant 40 °C en mars et avril, rendant les visites éprouvantes, suivie du début de la saison des pluies en mai."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "L'été fait partie de la saison des pluies avec des risques d'inondations, bien que certaines zones comme Ko Samui bénéficient à cette période d'une saison sèche."
+    },
+    "automne": {
+      "recommandation": "deconseille",
+      "justification": "Les moussons frappent le pays en septembre et octobre avec d'importantes averses et inondations, avant le retour de la saison sèche en novembre."
+    },
+    "hiver": {
+      "recommandation": "ideal",
+      "justification": "C'est la saison fraîche et la plus populaire pour voyager grâce au faible niveau de pluie, malgré une forte affluence et des prix élevés durant les fêtes."
+    }
+  },
+  "Égypte": {
+    "printemps": {
+      "recommandation": "moyen",
+      "justification": "De mars à mai, la période est marquée par des tempêtes de sable qui rendent l'air très sec, sablonneux et augmentent temporairement la température."
+    },
+    "ete": {
+      "recommandation": "deconseille",
+      "justification": "Les étés sont extrêmement chauds et très ensoleillés, ne faisant pas partie des mois recommandés pour un séjour confortable."
+    },
+    "automne": {
+      "recommandation": "bon",
+      "justification": "Novembre marque le début de la période la plus confortable pour voyager, bien que septembre et octobre puissent parfois subir des inondations soudaines."
+    },
+    "hiver": {
+      "recommandation": "ideal",
+      "justification": "S'étendant de novembre à mars, c'est la période la plus confortable pour voyager avec des températures hivers modérées malgré quelques nuits fraîches."
+    }
+  },
+  "États-Unis": {
+    "printemps": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne fournit aucune information météorologique sur le printemps. Le pays est globalement sûr pour les touristes, malgré des risques existants."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Aucun détail climatique sur l'été n'est mentionné dans le contexte. Les conditions de sécurité restent généralement bonnes mais nécessitent de la vigilance."
+    },
+    "automne": {
+      "recommandation": "moyen",
+      "justification": "En l'absence de données sur le climat automnal, l'évaluation se base sur la sécurité globale, considérée comme bonne pour les visiteurs."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne précise pas les conditions hivernales. La destination reste généralement sûre tout en présentant certains risques."
+    }
+  },
+  "Australie": {
+    "printemps": {
+      "recommandation": "bon",
+      "justification": "Le contexte ne fournit pas de détails climatiques spécifiques pour le printemps, mais la visite des villes cosmopolites et des grands espaces reste envisageable."
+    },
+    "ete": {
+      "recommandation": "bon",
+      "justification": "Aucune précision météorologique sur l'été n'étant mentionnée, la découverte de ce territoire majoritairement plat et sec demeure possible."
+    },
+    "automne": {
+      "recommandation": "bon",
+      "justification": "En l'absence d'informations saisonnières dans le texte, l'automne permet prudemment de visiter les merveilles naturelles et les zones urbaines."
+    },
+    "hiver": {
+      "recommandation": "bon",
+      "justification": "Le contexte ne précise pas les conditions hivernales. On peut toutefois envisager de visiter les grandes villes et les reliefs mentionnés."
+    }
+  },
+  "Grèce": {
+    "printemps": {
+      "recommandation": "bon",
+      "justification": "Le contexte ne mentionne pas le climat printanier, mais c'est une période propice pour visiter les sites archéologiques et les montagnes."
+    },
+    "ete": {
+      "recommandation": "bon",
+      "justification": "Bien que le texte ne détaille pas la météo estivale, cette saison permet de profiter des nombreuses îles habitées du pays."
+    },
+    "automne": {
+      "recommandation": "bon",
+      "justification": "En l'absence de précisions sur l'automne, cette saison reste adaptée à la découverte du patrimoine culturel et historique."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Le texte ne fournit aucune information sur l'hiver; une évaluation prudente est de privilégier cette période pour les visites culturelles plutôt que pour les îles."
+    }
+  },
+  "Turquie": {
+    "printemps": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne contient pas d'informations climatiques sur le printemps. Une évaluation neutre et prudente est donc appliquée."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Aucune donnée météorologique n'est donnée pour l'été, bien que le plateau d'Anatolie soit décrit comme semi-aride."
+    },
+    "automne": {
+      "recommandation": "moyen",
+      "justification": "Le texte ne mentionne pas les conditions en automne, ce qui nécessite une évaluation généraliste et réservée."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Les informations fournies ne précisent pas le climat hivernal sur le plateau central ou les zones montagneuses."
+    }
+  },
+  "Allemagne": {
+    "printemps": {
+      "recommandation": "bon",
+      "justification": "Le printemps accueille de nombreuses fêtes de la bière traditionnelles dans diverses villes, comme à Ratisbonne, ce qui enrichit l'expérience culturelle."
+    },
+    "ete": {
+      "recommandation": "bon",
+      "justification": "Bien que l'été ne soit pas explicitement détaillé dans le texte, l'Allemagne offre un cadre adapté au tourisme urbain et à la découverte de ses villes au caractère unique."
+    },
+    "automne": {
+      "recommandation": "ideal",
+      "justification": "Cette période est marquée par l'Oktoberfest à Munich, le festival le plus connu et le plus visité d'Europe."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne fournit aucune information sur la saison hivernale, incitant à une approche prudente pour cette période."
+    }
+  },
+  "Argentine": {
+    "printemps": {
+      "recommandation": "ideal",
+      "justification": "Durant le printemps austral (septembre à novembre), les températures sont douces et agréables, oscillant entre 19 et 25°C en journée à Buenos Aires."
+    },
+    "ete": {
+      "recommandation": "bon",
+      "justification": "L'été austral (décembre à février) est chaud et humide avec des maximales de 28 à 30°C à Buenos Aires, ce qui reste favorable pour visiter les zones sub-antarctiques plus fraîches du sud."
+    },
+    "automne": {
+      "recommandation": "ideal",
+      "justification": "L'automne austral (mars à mai) offre un climat tempéré et doux, avec des températures maximales confortables comprises entre 19 et 26°C dans la région centrale."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Bien que l'hiver austral (juin à août) soit doux dans la Pampa (15 à 17°C max à Buenos Aires), les régions du sud comme la Patagonie et la Terre de Feu subissent des conditions climatiques froides."
+    }
+  },
+  "Canada": {
+    "printemps": {
+      "recommandation": "moyen",
+      "justification": "Jusqu'en avril, le climat froid impose encore manteau et chaussures d'hiver, même si les températures moyennes de jour dépassent généralement 15 °C le reste de la période."
+    },
+    "ete": {
+      "recommandation": "ideal",
+      "justification": "Relativement courts mais très chauds, les étés offrent des températures de jour supérieures à 15 °C, atteignant parfois plus de 35 °C dans le sud du pays."
+    },
+    "automne": {
+      "recommandation": "moyen",
+      "justification": "Dès le mois d'octobre, le froid s'installe et nécessite un équipement d'hiver adéquat, particulièrement dans les zones montagneuses ou nordiques."
+    },
+    "hiver": {
+      "recommandation": "deconseille",
+      "justification": "Les hivers canadiens sont particulièrement rigoureux et froids par rapport au reste du monde, même si le sud habité et la côte de Colombie-Britannique bénéficient de conditions plus clémentes."
+    }
+  },
+  "Chili": {
+    "printemps": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne fournit pas de détails sur cette saison, mentionnant seulement une forte variabilité climatique entre le nord désertique et le sud frisquet."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Aucune information saisonnière précise n'est indiquée dans le texte, qui souligne principalement la diversité des climats selon la latitude et l'altitude."
+    },
+    "automne": {
+      "recommandation": "moyen",
+      "justification": "Le contexte n'aborde pas les spécificités de l'automne, rappelant uniquement les écarts de climat allant du méditerranéen au centre au frisquet en Patagonie."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "En l'absence de mentions sur les saisons dans le texte, l'évaluation reste prudente compte tenu des contrastes climatiques importants du pays."
+    }
+  },
+  "Corée du Sud": {
+    "printemps": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne fournit aucune information climatique ou touristique sur le printemps. Il est impossible d'évaluer précisément les conditions de voyage pour cette saison."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Aucun élément météorologique ou d'affluence estivale n'est mentionné dans le texte. Une évaluation prudente s'impose en l'absence de données."
+    },
+    "automne": {
+      "recommandation": "moyen",
+      "justification": "Le texte se limite à des données géographiques et n'aborde pas l'automne. Les conditions de visite pour cette période ne peuvent être déterminées."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Le contexte n'indique aucune information sur le climat hivernal. Il n'est pas possible de juger de la pertinence d'un séjour en hiver."
+    }
+  },
+  "Fidji": {
+    "printemps": {
+      "recommandation": "bon",
+      "justification": "Le contexte ne fournit pas d'informations météorologiques spécifiques pour le printemps, mais mentionne un environnement tropical propice aux plages et à la nature toute l'année."
+    },
+    "ete": {
+      "recommandation": "bon",
+      "justification": "Bien qu'aucune variation saisonnière ne soit détaillée dans le texte, l'archipel offre des eaux tropicales chaudes et de nombreuses activités de plein air."
+    },
+    "automne": {
+      "recommandation": "bon",
+      "justification": "Le texte ne mentionne pas de données climatiques propres à l'automne, mais souligne les attraits naturels constants du pays."
+    },
+    "hiver": {
+      "recommandation": "bon",
+      "justification": "Aucune spécificité hivernale n'est précisée dans le contexte, qui décrit globalement une destination de vacances aux eaux tropicales chaudes."
+    }
+  },
+  "Kenya": {
+    "printemps": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne fournit aucune information climatique ou d'affluence sur cette saison. Il convient donc de rester prudent en tenant compte des consignes générales de sécurité."
+    },
+    "ete": {
+      "recommandation": "moyen",
+      "justification": "Aucune indication saisonnière n'est précisée dans les textes pour cette période. Les activités comme les safaris et les plages restent envisageables sous réserve de respecter la vigilance sécuritaire requise."
+    },
+    "automne": {
+      "recommandation": "moyen",
+      "justification": "Le texte ne mentionne aucun détail météorologique ou touristique propre à l'automne. Une évaluation prudente s'impose en suivant les recommandations sécuritaires du pays."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Les informations fournies ne précisent rien concernant l'hiver au Kenya. Le séjour reste possible mais doit s'adapter aux consignes de prudence générale données pour le pays."
+    }
+  },
+  "Nouvelle-Zélande": {
+    "printemps": {
+      "recommandation": "bon",
+      "justification": "Le contexte n'apporte pas de détails sur cette saison, mais le climat océanique permet a priori de découvrir la nature et les parcs nationaux."
+    },
+    "ete": {
+      "recommandation": "bon",
+      "justification": "Bien que le texte ne détaille pas les conditions estivales, le climat océanique est propice aux randonnées mentionnées dans les îles."
+    },
+    "automne": {
+      "recommandation": "bon",
+      "justification": "Aucune indication spécifique n'est fournie sur l'automne dans le texte ; la visite reste envisageable sous son climat océanique tempéré."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Le contexte ne précise pas les conditions hivernales mais mentionne des reliefs élevés comme le Mont Cook, invitant à la prudence."
+    }
+  },
+  "Portugal": {
+    "printemps": {
+      "recommandation": "bon",
+      "justification": "Les températures sont agréables et en hausse (maximales moyennes de 17 à 22°C) avec des précipitations qui s'atténuent progressivement au sud comme au nord."
+    },
+    "ete": {
+      "recommandation": "ideal",
+      "justification": "La saison offre un fort ensoleillement et un climat sec, avec des températures estivales tempérées au nord (environ 27°C) et très chaudes au sud."
+    },
+    "automne": {
+      "recommandation": "moyen",
+      "justification": "Si le début de l'automne reste doux, les précipitations deviennent rapidement très abondantes d'octobre à novembre, en particulier dans la moitié nord."
+    },
+    "hiver": {
+      "recommandation": "moyen",
+      "justification": "Bien que les températures restent douces (rarement de gelées au sud), la saison est marquée par un temps très humide et pluvieux, surtout au nord."
+    }
+  }
+}

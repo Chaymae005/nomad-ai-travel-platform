@@ -1,0 +1,27 @@
+{
+  "slug": "grece",
+  "country": "Grèce",
+  "lang": "fr",
+  "sections": [
+    {
+      "section": "introduction",
+      "category": "general",
+      "text": "La Grèce (Ελλάς) est un pays d'Europe, membre de l'Union européenne depuis 1981. Elle est frontalière de l'Albanie, la Macédoine du Nord, la Bulgarie et la Turquie, et ses côtes donnent sur les mers Ionienne, Méditerranée et Egée."
+    },
+    {
+      "section": "Comprendre",
+      "category": "general",
+      "text": "Berceau de la civilisation occidentale, on y situe la naissance de la philosophie, de la démocratie, du théâtre et son influence artistique fut considérable. C'est aussi en Grèce que sont nés les Jeux Olympiques.\n\nSes sites archéologiques, ses montagnes et ses nombreuses îles (1400 dont 227 habitées) en font une destination très prisée des touristes."
+    },
+    {
+      "section": "Sécurité",
+      "category": "tourisme",
+      "text": "La Grèce est un pays sûr. Peu de risque de délinquance, sauf dans les secteurs très touristiques, où une prudence minimale est de mise (comme dans tout autre lieu très fréquenté). Ne pas se promener le soir place Omonia et les environs ou à Monastiraki à Athènes.\n\n Conseils gouvernementaux aux voyageurs"
+    },
+    {
+      "section": "Respecter",
+      "category": "tourisme",
+      "text": "Ne jamais désigner quelqu'un avec la main et les 5 doigts écartés, vous maudiriez cette personne pour 5 générations et risqueriez votre vie par l'occasion ! Si vous voulez saluer quelqu'un, garder les doigts bien serrés…\n\nNe pas entrer dans les églises en short ou minijupe/robe, se couvrir les épaules, dans les monastères et les lieux saints, l'entrée est étroitement surveillée, on vous prêtera un grand tissu pour vous couvrir.\n\nLorsqu'on est invité dans une maison grecque, la maîtresse de maison apporte une douceur très sucrée, avec une cuiller à café et un verre d'eau. Dans le respect des traditions, on mange la douceur avec la cuiller, on boit le verre d'eau, puis on pose la cuiller dans le verre vide.\n\nLes Grecs sont très concernés par leur patrimoine historique, à la fois une fierté et à la base de leur activité touristique. À Delphes, franchir un cordon pour prendre en photo de plus près un temple ou même un fragment de colonne apparemment banal peut vous coûter très cher, en effet, une police veille dans différentes bases disséminées dans les hauteurs et rappliquent aussitôt à la moindre infraction. Ils n'hésitent pas à vous conduire au poste, même lorsque l'infraction est commise par un enfant !\n\nDes petites constructions, des sortes d'églises orthodoxes miniature en hauteur sur une petite colonne fleurissent le long des routes, il s'agit de petits autels dédiés à une personne morte dans un accident. Ils contiennent souvent une photo de cette personne et des offrandes.\n\nDans certaines régions où l'eau est peu présente, il ne faut pas jeter le papier toilette dans la cuvette mais dans une petite poubelle à côté, car le débit de la chasse d'eau ne permet d'entraîner le papier."
+    }
+  ]
+}
